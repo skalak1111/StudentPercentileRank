@@ -1,0 +1,48 @@
+*{
+	box-sizzing:inline;
+}
+body{
+	font-family: "Georgia, serif";
+}
+
+legend{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.container-head{
+	font-weight:bold;
+}
+
+div{
+	padding:5px;
+	text-align:center;
+}
+div span{
+	display: block;
+    float: left;
+    width: 25%;
+    height: 25px;
+}
+.row-1{
+	background-color:white;
+	height: 25px;
+	}
+	
+.row-2{
+	background-color:silver;
+	height: 25px;
+	}
+	
+.success{
+	color:green;
+	}
+	
+.error{
+	color:red;
+	}
+	
+fieldset{
+	margin: 10px;
+	padding: 10px;
+	}

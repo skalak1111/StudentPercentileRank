@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+phpunit_config_file=/StudentPercentileRank/phpunit.xml
+preload_script=/StudentPercentileRank/test/bootstrap.php
+test_file_pattern=
+test_folders=/StudentPercentileRank/test/unit
+testing_framework=PHPUnit
